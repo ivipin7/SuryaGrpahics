@@ -170,7 +170,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
           </div>
 
           <div className="border-t border-white/20 mt-8 pt-8 text-center text-sm opacity-75">
-            <p>© 2024 SS Surya Graphics. All rights reserved.</p>
+            <p>© 2025 SS Surya Graphics. All rights reserved.</p>
           </div>
         </div>
       </footer>
